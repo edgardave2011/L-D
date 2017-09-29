@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="category" table="x_spog_learn_dev_learning_and_development" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>360 Reviews</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence/>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2017-09-29 13:58:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e4c38bf44fe10f4021a168d18110c7ff</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2017-09-29 13:58:56</sys_updated_on>
+            <value>360 Reviews</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Apprenticeships</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence/>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2017-09-29 13:59:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8bd38ff44fe10f4021a168d18110c76b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2017-09-29 13:59:33</sys_updated_on>
+            <value>Apprenticeships</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BD Admin - iHarmony</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence/>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2017-09-29 14:00:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e83407384fe10f4021a168d18110c71b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2017-09-29 14:00:58</sys_updated_on>
+            <value>BD Admin - iHarmony</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CDP</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence/>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2017-09-29 14:01:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>de5487384fe10f4021a168d18110c787</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2017-09-29 14:01:26</sys_updated_on>
+            <value>CDP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Connect</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence/>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2017-09-29 14:00:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c2483384fe10f4021a168d18110c75f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2017-09-29 14:00:28</sys_updated_on>
+            <value>Connect</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Course Lunch Orders</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence/>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2017-09-29 14:00:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>86148ff44fe10f4021a168d18110c775</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2017-09-29 14:00:23</sys_updated_on>
+            <value>Course Lunch Orders</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Course Uploads</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence/>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2017-09-29 13:58:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bd9307b44fe10f4021a168d18110c74f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2017-09-29 13:58:21</sys_updated_on>
+            <value>Course Uploads</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dementia Badges</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence/>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2017-09-29 13:59:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ccf34ff44fe10f4021a168d18110c71e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2017-09-29 13:59:52</sys_updated_on>
+            <value>Dementia Badges</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>iLearn Group Manager</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence/>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2017-09-29 14:01:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>324407384fe10f4021a168d18110c71d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2017-09-29 14:01:22</sys_updated_on>
+            <value>iLearn Group Manager</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>iLearn Query</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence/>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2017-09-29 13:58:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c983c3b44fe10f4021a168d18110c7fb</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2017-09-29 13:58:09</sys_updated_on>
+            <value>iLearn Query</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ILM</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence/>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2017-09-29 13:59:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b8044ff44fe10f4021a168d18110c74a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2017-09-29 13:59:57</sys_updated_on>
+            <value>ILM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>In-Store Experience</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence/>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2017-09-29 13:58:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c6b307b44fe10f4021a168d18110c750</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2017-09-29 13:58:46</sys_updated_on>
+            <value>In-Store Experience</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Invoices</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence/>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2017-09-29 14:00:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6d24c3384fe10f4021a168d18110c716</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2017-09-29 14:00:36</sys_updated_on>
+            <value>Invoices</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Meeting Room Bookings</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence/>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2017-09-29 14:00:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7b0443384fe10f4021a168d18110c7ea</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2017-09-29 14:00:15</sys_updated_on>
+            <value>Meeting Room Bookings</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Module Uploads &amp; Testing</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence/>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2017-09-29 13:58:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f5a34bf44fe10f4021a168d18110c701</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2017-09-29 13:58:36</sys_updated_on>
+            <value>Module Uploads &amp; Testing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New Stores</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence/>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2017-09-29 14:00:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>57248ff44fe10f4021a168d18110c760</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2017-09-29 14:00:44</sys_updated_on>
+            <value>New Stores</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Printing Request</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence/>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2017-09-29 14:00:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b50443384fe10f4021a168d18110c7db</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2017-09-29 14:00:06</sys_updated_on>
+            <value>Printing Request</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Professional Development</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence/>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2017-09-29 14:01:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6f54c3384fe10f4021a168d18110c7d5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2017-09-29 14:01:47</sys_updated_on>
+            <value>Professional Development</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Purchase Orders</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence/>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2017-09-29 14:01:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a844c3384fe10f4021a168d18110c7b7</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2017-09-29 14:01:07</sys_updated_on>
+            <value>Purchase Orders</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2017-09-29 13:58:01</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>359347744fe10f4021a168d18110c774</sys_id>
+            <sys_mod_count>38</sys_mod_count>
+            <sys_name>category</sys_name>
+            <sys_package display_value="Learning and Development" source="x_spog_learn_dev">85414ff04fe10f4021a168d18110c7d1</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Learning and Development">85414ff04fe10f4021a168d18110c7d1</sys_scope>
+            <sys_update_name>sys_choice_x_spog_learn_dev_learning_and_development_category</sys_update_name>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2017-09-29 14:01:47</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

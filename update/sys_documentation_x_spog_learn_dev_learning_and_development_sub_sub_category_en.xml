@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="sub_sub_category" label="Sub Sub-Category" language="en" table="x_spog_learn_dev_learning_and_development">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>sub_sub_category</element>
+            <help/>
+            <hint/>
+            <label>Sub Sub-Category</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <plural>Sub Sub-Categories</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2017-09-29 14:02:53</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>c9b48b384fe10f4021a168d18110c754</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Sub Sub-Category</sys_name>
+            <sys_package display_value="Learning and Development" source="x_spog_learn_dev">85414ff04fe10f4021a168d18110c7d1</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Learning and Development">85414ff04fe10f4021a168d18110c7d1</sys_scope>
+            <sys_update_name>sys_documentation_x_spog_learn_dev_learning_and_development_sub_sub_category_en</sys_update_name>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2017-09-29 14:02:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
