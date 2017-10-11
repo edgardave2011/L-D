@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element attributes="email_client=true" audit="true" extends="task" label="Learning and Development" max_length="40" name="x_spog_learn_dev_learning_and_development" type="collection">
+    <element attributes="email_client=true" audit="true" extends="task" label="Learning and Development" max_length="40" name="x_spog_learn_dev_learning_and_development" sizeclass="2" type="collection">
         <element label="Caller" max_length="32" name="caller" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Category" mandatory="true" max_length="40" name="category" type="string">
             <choice>
