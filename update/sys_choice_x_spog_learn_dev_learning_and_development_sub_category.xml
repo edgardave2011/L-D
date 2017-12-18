@@ -2,6 +2,63 @@
 <record_update>
     <sys_choice action="INSERT_OR_UPDATE" field="sub_category" table="x_spog_learn_dev_learning_and_development" version="3">
         <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>People Development</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>360</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>0</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:44:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2b64a3c4dbf60f8063b7dca0ce96194a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:44:33</sys_updated_on>
+            <value>360</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>ILM</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Booking</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>0</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:39:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3143a384dbb60f8063b7dca0ce9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:39:31</sys_updated_on>
+            <value>Booking</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>PTD</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Certificates</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>0</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:41:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>67a3ebc8dbb60f8063b7dca0ce961994</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:41:16</sys_updated_on>
+            <value>Certificates</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>Apprenticeships</dependent_value>
             <element>sub_category</element>
             <hint/>
@@ -10,15 +67,72 @@
             <language>en</language>
             <name>x_spog_learn_dev_learning_and_development</name>
             <sequence>0</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-09-29 14:16:37</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-25 11:14:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>5ed747f84fe10f4021a168d18110c7f3</sys_id>
-            <sys_mod_count>5</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-09-29 14:28:32</sys_updated_on>
+            <sys_id>077794194f824f4019baf9b7c210c72a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-25 11:14:25</sys_updated_on>
             <value>New Apprentice</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>People Development</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Apprenticeships</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>1</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:44:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3764a3c4dbf60f8063b7dca0ce96194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:44:33</sys_updated_on>
+            <value>Apprenticeships</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>PTD</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cert 3</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>1</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:41:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>63a3ebc8dbb60f8063b7dca0ce961996</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:41:16</sys_updated_on>
+            <value>Cert 3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>ILM</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Certificates</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>1</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:39:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3d43a384dbb60f8063b7dca0ce9619fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:39:31</sys_updated_on>
+            <value>Certificates</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>Apprenticeships</dependent_value>
@@ -29,15 +143,72 @@
             <language>en</language>
             <name>x_spog_learn_dev_learning_and_development</name>
             <sequence>1</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-09-29 14:16:37</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-25 11:14:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>d6d747f84fe10f4021a168d18110c7f5</sys_id>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-09-29 14:28:26</sys_updated_on>
+            <sys_id>477794194f824f4019baf9b7c210c72a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-25 11:14:25</sys_updated_on>
             <value>Exam bookings and resending exam papers</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>PTD</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cert 4</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>2</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:41:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6fa3ebc8dbb60f8063b7dca0ce961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:41:16</sys_updated_on>
+            <value>Cert 4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>People Development</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Change to Course Approver</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>2</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:44:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3364a3c4dbf60f8063b7dca0ce96194e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:44:33</sys_updated_on>
+            <value>Change to Course Approver</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>ILM</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Deferral/Cancel</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>2</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:39:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3943a384dbb60f8063b7dca0ce9619fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:39:31</sys_updated_on>
+            <value>Deferral/Cancel</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>Apprenticeships</dependent_value>
@@ -48,15 +219,34 @@
             <language>en</language>
             <name>x_spog_learn_dev_learning_and_development</name>
             <sequence>2</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-09-29 14:16:37</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-25 11:14:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>52d747f84fe10f4021a168d18110c7f7</sys_id>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-09-29 14:28:29</sys_updated_on>
+            <sys_id>877794194f824f4019baf9b7c210c72a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-25 11:14:25</sys_updated_on>
             <value>General enquiry</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>PTD</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CET/MCQ Query</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>3</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:41:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6ba3ebc8dbb60f8063b7dca0ce961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:41:16</sys_updated_on>
+            <value>CET/MCQ Query</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>iLearn Query</dependent_value>
@@ -67,15 +257,53 @@
             <language>en</language>
             <name>x_spog_learn_dev_learning_and_development</name>
             <sequence>3</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-09-29 14:15:15</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-25 11:14:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>9a870bb84fe10f4021a168d18110c7b3</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-09-29 14:17:27</sys_updated_on>
+            <sys_id>c77794194f824f4019baf9b7c210c72a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-25 11:14:25</sys_updated_on>
             <value>Change to Course Approver</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>People Development</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Chromebook Issue</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>3</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:44:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3f64a3c4dbf60f8063b7dca0ce96194f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:44:33</sys_updated_on>
+            <value>Chromebook Issue</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>ILM</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Module Issues</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>3</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:39:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>71432b84dbb60f8063b7dca0ce961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:39:31</sys_updated_on>
+            <value>Module Issues</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>iLearn Query</dependent_value>
@@ -86,15 +314,91 @@
             <language>en</language>
             <name>x_spog_learn_dev_learning_and_development</name>
             <sequence>4</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-09-29 14:15:15</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-25 11:14:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>d6870bb84fe10f4021a168d18110c7b5</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-09-29 14:17:27</sys_updated_on>
+            <sys_id>0b7794194f824f4019baf9b7c210c72a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-25 11:14:25</sys_updated_on>
             <value>Course/Lesson issue</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>People Development</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Course/Lesson issue</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>4</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:44:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b64a3c4dbf60f8063b7dca0ce961951</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:44:33</sys_updated_on>
+            <value>Course/Lesson issue</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>PTD</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HCA</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>4</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:41:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>67a3afc8dbb60f8063b7dca0ce9619b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:41:16</sys_updated_on>
+            <value>HCA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>ILM</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Registration Form</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>4</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:39:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7d432b84dbb60f8063b7dca0ce961932</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:39:31</sys_updated_on>
+            <value>Registration Form</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>People Development</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dementia Badges</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>5</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:44:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3764a3c4dbf60f8063b7dca0ce961953</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:44:33</sys_updated_on>
+            <value>Dementia Badges</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>iLearn Query</dependent_value>
@@ -105,14 +409,71 @@
             <language>en</language>
             <name>x_spog_learn_dev_learning_and_development</name>
             <sequence>5</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-09-29 14:15:15</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-25 11:14:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>52870bb84fe10f4021a168d18110c7b7</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-09-29 14:17:27</sys_updated_on>
+            <sys_id>4b7794194f824f4019baf9b7c210c72a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-25 11:14:25</sys_updated_on>
+            <value>Disabled Account</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>PTD</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Learning Agreement</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>5</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:41:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>63a3afc8dbb60f8063b7dca0ce9619b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:41:16</sys_updated_on>
+            <value>Learning Agreement</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>ILM</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Results</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>5</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:39:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>79432b84dbb60f8063b7dca0ce961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:39:31</sys_updated_on>
+            <value>Results</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>People Development</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Disabled Account</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>6</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:44:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bb64e3c4dbf60f8063b7dca0ce961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:44:33</sys_updated_on>
             <value>Disabled Account</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -124,14 +485,52 @@
             <language>en</language>
             <name>x_spog_learn_dev_learning_and_development</name>
             <sequence>6</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-09-29 14:15:15</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-25 11:14:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>da870bb84fe10f4021a168d18110c7b8</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-09-29 14:17:27</sys_updated_on>
+            <sys_id>8b7794194f824f4019baf9b7c210c72a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-25 11:14:25</sys_updated_on>
+            <value>Email change</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>PTD</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PAC/Mini PAC</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>6</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:41:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6fa3afc8dbb60f8063b7dca0ce9619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:41:16</sys_updated_on>
+            <value>PAC/Mini PAC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>People Development</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Email change</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>7</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:44:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b764e3c4dbf60f8063b7dca0ce961968</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:44:33</sys_updated_on>
             <value>Email change</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -143,14 +542,52 @@
             <language>en</language>
             <name>x_spog_learn_dev_learning_and_development</name>
             <sequence>7</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-09-29 14:15:15</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-25 11:14:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>56870bb84fe10f4021a168d18110c7ba</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-09-29 14:17:27</sys_updated_on>
+            <sys_id>cb7794194f824f4019baf9b7c210c72a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-25 11:14:25</sys_updated_on>
+            <value>Error Message</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>PTD</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Workbooks</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>7</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:41:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6ba3afc8dbb60f8063b7dca0ce9619bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:41:16</sys_updated_on>
+            <value>Workbooks</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>People Development</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Error Message</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>8</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:44:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b364e3c4dbf60f8063b7dca0ce96196a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:44:33</sys_updated_on>
             <value>Error Message</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -162,15 +599,34 @@
             <language>en</language>
             <name>x_spog_learn_dev_learning_and_development</name>
             <sequence>8</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-09-29 14:15:15</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-25 11:14:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>9287cfb84fe10f4021a168d18110c7f9</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-09-29 14:17:27</sys_updated_on>
+            <sys_id>0f7794194f824f4019baf9b7c210c72a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-25 11:14:25</sys_updated_on>
             <value>GOI/New Account queries</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>People Development</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GOI/New account queries</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>9</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:44:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bf64e3c4dbf60f8063b7dca0ce96196b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:44:33</sys_updated_on>
+            <value>GOI/New account queries</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>iLearn Query</dependent_value>
@@ -181,15 +637,34 @@
             <language>en</language>
             <name>x_spog_learn_dev_learning_and_development</name>
             <sequence>9</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-09-29 14:15:15</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-25 11:14:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>1e87cfb84fe10f4021a168d18110c7fa</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-09-29 14:17:27</sys_updated_on>
+            <sys_id>4f7794194f824f4019baf9b7c210c72a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-25 11:14:25</sys_updated_on>
             <value>iLearn system downtime</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>People Development</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Group Learning</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>10</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:44:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bb64e3c4dbf60f8063b7dca0ce96196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:44:33</sys_updated_on>
+            <value>Group Learning</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>iLearn Query</dependent_value>
@@ -200,15 +675,34 @@
             <language>en</language>
             <name>x_spog_learn_dev_learning_and_development</name>
             <sequence>10</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-09-29 14:15:15</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-25 11:14:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>9687cfb84fe10f4021a168d18110c7fc</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-09-29 14:17:27</sys_updated_on>
+            <sys_id>8f7794194f824f4019baf9b7c210c72a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-25 11:14:25</sys_updated_on>
             <value>Locum Account</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>People Development</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IG Issues</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>11</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:44:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b764e3c4dbf60f8063b7dca0ce96196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:44:33</sys_updated_on>
+            <value>IG Issues</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>iLearn Query</dependent_value>
@@ -219,15 +713,34 @@
             <language>en</language>
             <name>x_spog_learn_dev_learning_and_development</name>
             <sequence>11</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-09-29 14:15:15</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-25 11:14:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>1287cfb84fe10f4021a168d18110c7fe</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-09-29 14:17:27</sys_updated_on>
+            <sys_id>cf7794194f824f4019baf9b7c210c72a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-25 11:14:25</sys_updated_on>
             <value>Moved Store</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>People Development</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Insights</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>12</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:44:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b364e3c4dbf60f8063b7dca0ce961971</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:44:33</sys_updated_on>
+            <value>Insights</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>iLearn Query</dependent_value>
@@ -238,15 +751,34 @@
             <language>en</language>
             <name>x_spog_learn_dev_learning_and_development</name>
             <sequence>12</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-09-29 14:15:15</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-25 11:14:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>9a87cfb84fe10f4021a168d18110c7ff</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-09-29 14:17:27</sys_updated_on>
+            <sys_id>037794194f824f4019baf9b7c210c72b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-25 11:14:25</sys_updated_on>
             <value>Navigation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>People Development</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>In Store Visits</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>13</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:44:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bf64e3c4dbf60f8063b7dca0ce961972</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:44:33</sys_updated_on>
+            <value>In Store Visits</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>iLearn Query</dependent_value>
@@ -257,15 +789,34 @@
             <language>en</language>
             <name>x_spog_learn_dev_learning_and_development</name>
             <sequence>13</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-09-29 14:15:15</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-25 11:14:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>168703f84fe10f4021a168d18110c701</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-09-29 14:17:27</sys_updated_on>
+            <sys_id>437794194f824f4019baf9b7c210c72b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-25 11:14:25</sys_updated_on>
             <value>Password Reset issue</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>People Development</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Locum Account</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>14</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:44:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bb64e3c4dbf60f8063b7dca0ce961974</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:44:33</sys_updated_on>
+            <value>Locum Account</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>iLearn Query</dependent_value>
@@ -276,15 +827,34 @@
             <language>en</language>
             <name>x_spog_learn_dev_learning_and_development</name>
             <sequence>14</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-09-29 14:15:15</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-25 11:14:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>9e8703f84fe10f4021a168d18110c702</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-09-29 14:17:27</sys_updated_on>
+            <sys_id>837794194f824f4019baf9b7c210c72b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-25 11:14:25</sys_updated_on>
             <value>Report Issue</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>People Development</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Management Academy</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>15</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:44:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b764e3c4dbf60f8063b7dca0ce961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:44:33</sys_updated_on>
+            <value>Management Academy</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>iLearn Query</dependent_value>
@@ -295,14 +865,14 @@
             <language>en</language>
             <name>x_spog_learn_dev_learning_and_development</name>
             <sequence>15</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-09-29 14:15:15</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-25 11:14:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>1a8703f84fe10f4021a168d18110c704</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-09-29 14:17:27</sys_updated_on>
+            <sys_id>c37794194f824f4019baf9b7c210c72b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-25 11:14:25</sys_updated_on>
             <value>Technical Issue</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -314,15 +884,34 @@
             <language>en</language>
             <name>x_spog_learn_dev_learning_and_development</name>
             <sequence>16</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-09-29 14:17:27</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-25 11:14:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>1e084bf84fe10f4021a168d18110c769</sys_id>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-09-29 14:18:17</sys_updated_on>
+            <sys_id>077794194f824f4019baf9b7c210c72b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-25 11:14:25</sys_updated_on>
             <value>Lab / New Store / 360 / ISTA / Recharges</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>People Development</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Moved Store</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>16</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:44:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b364e3c4dbf60f8063b7dca0ce961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:44:33</sys_updated_on>
+            <value>Moved Store</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>Invoices</dependent_value>
@@ -333,15 +922,34 @@
             <language>en</language>
             <name>x_spog_learn_dev_learning_and_development</name>
             <sequence>17</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-09-29 14:17:27</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-25 11:14:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>96084bf84fe10f4021a168d18110c76b</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-09-29 14:17:42</sys_updated_on>
+            <sys_id>477794194f824f4019baf9b7c210c72b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-25 11:14:25</sys_updated_on>
             <value>Delivery and Design teams</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>People Development</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Navigation</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>17</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:44:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bf64e3c4dbf60f8063b7dca0ce961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:44:33</sys_updated_on>
+            <value>Navigation</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>Invoices</dependent_value>
@@ -352,15 +960,34 @@
             <language>en</language>
             <name>x_spog_learn_dev_learning_and_development</name>
             <sequence>18</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-09-29 14:17:27</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-25 11:14:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>12084bf84fe10f4021a168d18110c76d</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-09-29 14:17:42</sys_updated_on>
+            <sys_id>877794194f824f4019baf9b7c210c72b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-25 11:14:25</sys_updated_on>
             <value>Invoicing and final process end of month for Support office</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>People Development</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>18</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:44:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bb64e3c4dbf60f8063b7dca0ce96197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:44:33</sys_updated_on>
+            <value>Other</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>Professional Development</dependent_value>
@@ -371,15 +998,34 @@
             <language>en</language>
             <name>x_spog_learn_dev_learning_and_development</name>
             <sequence>19</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-09-29 14:19:12</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-25 11:14:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>80784bf84fe10f4021a168d18110c785</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-09-29 14:19:40</sys_updated_on>
+            <sys_id>c77794194f824f4019baf9b7c210c72b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-25 11:14:25</sys_updated_on>
             <value>Cert 4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>People Development</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Password reset issues</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>19</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:44:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b764e3c4dbf60f8063b7dca0ce96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:44:33</sys_updated_on>
+            <value>Password reset issues</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>Professional Development</dependent_value>
@@ -390,15 +1036,34 @@
             <language>en</language>
             <name>x_spog_learn_dev_learning_and_development</name>
             <sequence>20</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-09-29 14:19:12</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-25 11:14:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>0c784bf84fe10f4021a168d18110c786</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-09-29 14:19:41</sys_updated_on>
+            <sys_id>0b7794194f824f4019baf9b7c210c72b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-25 11:14:25</sys_updated_on>
             <value>Cert 3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>People Development</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Report Issue</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>20</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:44:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b364e3c4dbf60f8063b7dca0ce96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:44:33</sys_updated_on>
+            <value>Report Issue</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>Professional Development</dependent_value>
@@ -409,15 +1074,34 @@
             <language>en</language>
             <name>x_spog_learn_dev_learning_and_development</name>
             <sequence>21</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-09-29 14:19:12</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-25 11:14:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>84784bf84fe10f4021a168d18110c788</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-09-29 14:19:41</sys_updated_on>
+            <sys_id>4b7794194f824f4019baf9b7c210c72b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-25 11:14:25</sys_updated_on>
             <value>HCA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>People Development</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Stronger Together</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>21</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:44:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bf64e3c4dbf60f8063b7dca0ce961980</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:44:33</sys_updated_on>
+            <value>Stronger Together</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>Professional Development</dependent_value>
@@ -428,15 +1112,34 @@
             <language>en</language>
             <name>x_spog_learn_dev_learning_and_development</name>
             <sequence>22</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-09-29 14:19:12</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-25 11:14:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>00784bf84fe10f4021a168d18110c78a</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-09-29 14:19:41</sys_updated_on>
+            <sys_id>8b7794194f824f4019baf9b7c210c72b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-25 11:14:25</sys_updated_on>
             <value>CET</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>People Development</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Technical issue</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>22</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:44:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bb64e3c4dbf60f8063b7dca0ce961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:44:33</sys_updated_on>
+            <value>Technical issue</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>Professional Development</dependent_value>
@@ -447,15 +1150,34 @@
             <language>en</language>
             <name>x_spog_learn_dev_learning_and_development</name>
             <sequence>23</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-09-29 14:19:12</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-25 11:14:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>88788ff84fe10f4021a168d18110c7fc</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-09-29 14:19:41</sys_updated_on>
+            <sys_id>c77794194f824f4019baf9b7c210c75d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-25 11:14:25</sys_updated_on>
             <value>CEC Childrens Eye Care</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>People Development</dependent_value>
+            <element>sub_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Welcome to the Partnership</label>
+            <language>en</language>
+            <name>x_spog_learn_dev_learning_and_development</name>
+            <sequence>23</sequence>
+            <sys_created_by>steve.hardstaff</sys_created_by>
+            <sys_created_on>2017-11-28 11:44:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b764e3c4dbf60f8063b7dca0ce961984</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:44:33</sys_updated_on>
+            <value>Welcome to the Partnership</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>Professional Development</dependent_value>
@@ -466,33 +1188,33 @@
             <language>en</language>
             <name>x_spog_learn_dev_learning_and_development</name>
             <sequence>24</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-09-29 14:19:12</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-25 11:14:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>04788ff84fe10f4021a168d18110c7fe</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-09-29 14:19:41</sys_updated_on>
+            <sys_id>0b7794194f824f4019baf9b7c210c75d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-25 11:14:25</sys_updated_on>
             <value>WOPEC</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>sub_category</element>
             <name>x_spog_learn_dev_learning_and_development</name>
             <sys_class_name>sys_choice_set</sys_class_name>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-09-29 14:15:15</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-25 11:14:26</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>92870bb84fe10f4021a168d18110c7b5</sys_id>
-            <sys_mod_count>36</sys_mod_count>
+            <sys_id>0f7794194f824f4019baf9b7c210c75d</sys_id>
+            <sys_mod_count>3</sys_mod_count>
             <sys_name>sub_category</sys_name>
             <sys_package display_value="Learning and Development" source="x_spog_learn_dev">85414ff04fe10f4021a168d18110c7d1</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Learning and Development">85414ff04fe10f4021a168d18110c7d1</sys_scope>
             <sys_update_name>sys_choice_x_spog_learn_dev_learning_and_development_sub_category</sys_update_name>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-09-29 14:28:32</sys_updated_on>
+            <sys_updated_by>steve.hardstaff</sys_updated_by>
+            <sys_updated_on>2017-11-28 11:44:33</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
 </record_update>

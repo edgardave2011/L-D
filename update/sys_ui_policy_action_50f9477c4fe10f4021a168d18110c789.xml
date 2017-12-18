@@ -7,7 +7,7 @@
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-09-29 14:25:59</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>50f9477c4fe10f4021a168d18110c789</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>sub_category</sys_name>

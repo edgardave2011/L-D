@@ -11,26 +11,26 @@
         <name>Learning and Development</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
-        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <runtime_access_tracking/>
         <scope>x_spog_learn_dev</scope>
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_spog_learn_dev</source>
-        <store_correlation_id>REPOAPP0000043746</store_correlation_id>
+        <store_correlation_id/>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>david.edgar</sys_created_by>
-        <sys_created_on>2017-09-29 13:48:09</sys_created_on>
+        <sys_created_on>2017-10-25 11:14:09</sys_created_on>
         <sys_id>85414ff04fe10f4021a168d18110c7d1</sys_id>
-        <sys_mod_count>13</sys_mod_count>
-        <sys_updated_by>david.edgar</sys_updated_by>
-        <sys_updated_on>2017-11-21 13:01:37</sys_updated_on>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_updated_by>steve.hardstaff</sys_updated_by>
+        <sys_updated_on>2017-12-18 21:09:13</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.7</version>
+        <version>1.0.12</version>
     </sys_app>
 </record_update>

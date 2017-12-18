@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>david.edgar</sys_created_by>
             <sys_created_on>2017-09-29 13:50:39</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>b9e1cf744fe10f4021a168d18110c7ff</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Learning and Development</sys_name>

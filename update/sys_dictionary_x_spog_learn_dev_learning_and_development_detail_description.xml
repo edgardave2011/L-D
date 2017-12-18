@@ -47,8 +47,8 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-09-29 13:55:47</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>451343f44fe10f4021a168d18110c7a9</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>357714194f824f4019baf9b7c210c7a3</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Detail Description</sys_name>
         <sys_package display_value="Learning and Development" source="x_spog_learn_dev">85414ff04fe10f4021a168d18110c7d1</sys_package>
@@ -56,8 +56,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Learning and Development">85414ff04fe10f4021a168d18110c7d1</sys_scope>
         <sys_update_name>sys_dictionary_x_spog_learn_dev_learning_and_development_detail_description</sys_update_name>
-        <sys_updated_by>david.edgar</sys_updated_by>
-        <sys_updated_on>2017-09-29 13:55:47</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-11-21 13:04:09</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

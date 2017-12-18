@@ -1,28 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element attributes="email_client=true" audit="true" extends="task" label="Learning and Development" max_length="40" name="x_spog_learn_dev_learning_and_development" sizeclass="2" type="collection">
+    <element attributes="email_client=true" audit="true" extends="task" label="Learning and Development" max_length="40" name="x_spog_learn_dev_learning_and_development" sizeclass="1178" text_index="true" type="collection">
         <element label="Caller" max_length="32" name="caller" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Category" mandatory="true" max_length="40" name="category" type="string">
             <choice>
-                <element label="360 Reviews" value="360 Reviews"/>
-                <element label="Apprenticeships" value="Apprenticeships"/>
-                <element label="BD Admin - iHarmony" value="BD Admin - iHarmony"/>
-                <element label="CDP" value="CDP"/>
-                <element label="Connect" value="Connect"/>
-                <element label="Course Lunch Orders" value="Course Lunch Orders"/>
-                <element label="Course Uploads" value="Course Uploads"/>
-                <element label="Dementia Badges" value="Dementia Badges"/>
-                <element label="iLearn Group Manager" value="iLearn Group Manager"/>
-                <element label="iLearn Query" value="iLearn Query"/>
-                <element label="ILM" value="ILM"/>
-                <element label="In-Store Experience" value="In-Store Experience"/>
-                <element label="Invoices" value="Invoices"/>
-                <element label="Meeting Room Bookings" value="Meeting Room Bookings"/>
-                <element label="Module Uploads &amp; Testing" value="Module Uploads &amp; Testing"/>
-                <element label="New Stores" value="New Stores"/>
-                <element label="Printing Request" value="Printing Request"/>
-                <element label="Professional Development" value="Professional Development"/>
-                <element label="Purchase Orders" value="Purchase Orders"/>
+                <element label="360 Reviews" sequence="0" value="360 Reviews"/>
+                <element label="Apprenticeships" sequence="1" value="Apprenticeships"/>
+                <element label="BD Admin - iHarmony" sequence="2" value="BD Admin - iHarmony"/>
+                <element label="CDP" sequence="3" value="CDP"/>
+                <element label="Connect" sequence="4" value="Connect"/>
+                <element label="Course Lunch Orders" sequence="5" value="Course Lunch Orders"/>
+                <element label="Course Uploads" sequence="6" value="Course Uploads"/>
+                <element label="Dementia Badges" sequence="7" value="Dementia Badges"/>
+                <element label="iLearn Group Manager" sequence="8" value="iLearn Group Manager"/>
+                <element label="iLearn Query" sequence="9" value="iLearn Query"/>
+                <element label="ILM" sequence="10" value="ILM"/>
+                <element label="In-Store Experience" sequence="11" value="In-Store Experience"/>
+                <element label="Invoices" sequence="12" value="Invoices"/>
+                <element label="Meeting Room Bookings" sequence="13" value="Meeting Room Bookings"/>
+                <element label="Module Uploads &amp; Testing" sequence="14" value="Module Uploads &amp; Testing"/>
+                <element label="New Stores" sequence="15" value="New Stores"/>
+                <element label="People Development" sequence="16" value="People Development"/>
+                <element label="Printing Request" sequence="17" value="Printing Request"/>
+                <element label="Professional Development" sequence="18" value="Professional Development"/>
+                <element label="PTD" sequence="19" value="PTD"/>
+                <element label="Purchase Orders" sequence="20" value="Purchase Orders"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Contact Email address" max_length="100" name="contact_email_address" type="string"/>
@@ -30,38 +32,76 @@
         <element label="Parent Record" max_length="32" name="parent_record" reference="x_spog_learn_dev_learning_and_development" type="reference"/>
         <element attributes="edge_encryption_enabled=true" choice="1" dependent="category" dependent_on_field="category" label="Sub-Category" max_length="40" name="sub_category" type="string" use_dependent_field="true">
             <choice>
+                <element dependent_value="People Development" label="360" sequence="0" value="360"/>
+                <element dependent_value="ILM" label="Booking" sequence="0" value="Booking"/>
+                <element dependent_value="PTD" label="Certificates" sequence="0" value="Certificates"/>
                 <element dependent_value="Apprenticeships" label="New Apprentice" sequence="0" value="New Apprentice"/>
+                <element dependent_value="People Development" label="Apprenticeships" sequence="1" value="Apprenticeships"/>
+                <element dependent_value="PTD" label="Cert 3" sequence="1" value="Cert 3"/>
+                <element dependent_value="ILM" label="Certificates" sequence="1" value="Certificates"/>
                 <element dependent_value="Apprenticeships" label="Exam bookings and resending exam papers" sequence="1" value="Exam bookings and resending exam papers"/>
+                <element dependent_value="PTD" label="Cert 4" sequence="2" value="Cert 4"/>
+                <element dependent_value="People Development" label="Change to Course Approver" sequence="2" value="Change to Course Approver"/>
+                <element dependent_value="ILM" label="Deferral/Cancel" sequence="2" value="Deferral/Cancel"/>
                 <element dependent_value="Apprenticeships" label="General enquiry" sequence="2" value="General enquiry"/>
+                <element dependent_value="PTD" label="CET/MCQ Query" sequence="3" value="CET/MCQ Query"/>
                 <element dependent_value="iLearn Query" label="Change to Course Approver" sequence="3" value="Change to Course Approver"/>
+                <element dependent_value="People Development" label="Chromebook Issue" sequence="3" value="Chromebook Issue"/>
+                <element dependent_value="ILM" label="Module Issues" sequence="3" value="Module Issues"/>
                 <element dependent_value="iLearn Query" label="Course/Lesson issue" sequence="4" value="Course/Lesson issue"/>
+                <element dependent_value="People Development" label="Course/Lesson issue" sequence="4" value="Course/Lesson issue"/>
+                <element dependent_value="PTD" label="HCA" sequence="4" value="HCA"/>
+                <element dependent_value="ILM" label="Registration Form" sequence="4" value="Registration Form"/>
+                <element dependent_value="People Development" label="Dementia Badges" sequence="5" value="Dementia Badges"/>
                 <element dependent_value="iLearn Query" label="Disabled Account" sequence="5" value="Disabled Account"/>
+                <element dependent_value="PTD" label="Learning Agreement" sequence="5" value="Learning Agreement"/>
+                <element dependent_value="ILM" label="Results" sequence="5" value="Results"/>
+                <element dependent_value="People Development" label="Disabled Account" sequence="6" value="Disabled Account"/>
                 <element dependent_value="iLearn Query" label="Email change" sequence="6" value="Email change"/>
+                <element dependent_value="PTD" label="PAC/Mini PAC" sequence="6" value="PAC/Mini PAC"/>
+                <element dependent_value="People Development" label="Email change" sequence="7" value="Email change"/>
                 <element dependent_value="iLearn Query" label="Error Message" sequence="7" value="Error Message"/>
+                <element dependent_value="PTD" label="Workbooks" sequence="7" value="Workbooks"/>
+                <element dependent_value="People Development" label="Error Message" sequence="8" value="Error Message"/>
                 <element dependent_value="iLearn Query" label="GOI/New Account queries" sequence="8" value="GOI/New Account queries"/>
+                <element dependent_value="People Development" label="GOI/New account queries" sequence="9" value="GOI/New account queries"/>
                 <element dependent_value="iLearn Query" label="iLearn system downtime" sequence="9" value="iLearn system downtime"/>
+                <element dependent_value="People Development" label="Group Learning" sequence="10" value="Group Learning"/>
                 <element dependent_value="iLearn Query" label="Locum Account" sequence="10" value="Locum Account"/>
+                <element dependent_value="People Development" label="IG Issues" sequence="11" value="IG Issues"/>
                 <element dependent_value="iLearn Query" label="Moved Store" sequence="11" value="Moved Store"/>
+                <element dependent_value="People Development" label="Insights" sequence="12" value="Insights"/>
                 <element dependent_value="iLearn Query" label="Navigation" sequence="12" value="Navigation"/>
+                <element dependent_value="People Development" label="In Store Visits" sequence="13" value="In Store Visits"/>
                 <element dependent_value="iLearn Query" label="Password Reset issue" sequence="13" value="Password Reset issue"/>
+                <element dependent_value="People Development" label="Locum Account" sequence="14" value="Locum Account"/>
                 <element dependent_value="iLearn Query" label="Report Issue" sequence="14" value="Report Issue"/>
+                <element dependent_value="People Development" label="Management Academy" sequence="15" value="Management Academy"/>
                 <element dependent_value="iLearn Query" label="Technical Issue" sequence="15" value="Technical Issue"/>
                 <element dependent_value="Invoices" label="Lab / New Store / 360 / ISTA / Recharges" sequence="16" value="Lab / New Store / 360 / ISTA / Recharges"/>
+                <element dependent_value="People Development" label="Moved Store" sequence="16" value="Moved Store"/>
                 <element dependent_value="Invoices" label="Delivery and Design teams" sequence="17" value="Delivery and Design teams"/>
+                <element dependent_value="People Development" label="Navigation" sequence="17" value="Navigation"/>
                 <element dependent_value="Invoices" label="Invoicing and final process end of month for Support office" sequence="18" value="Invoicing and final process end of month for Support office"/>
+                <element dependent_value="People Development" label="Other" sequence="18" value="Other"/>
                 <element dependent_value="Professional Development" label="Cert 4" sequence="19" value="Cert 4"/>
+                <element dependent_value="People Development" label="Password reset issues" sequence="19" value="Password reset issues"/>
                 <element dependent_value="Professional Development" label="Cert 3" sequence="20" value="Cert 3"/>
+                <element dependent_value="People Development" label="Report Issue" sequence="20" value="Report Issue"/>
                 <element dependent_value="Professional Development" label="HCA" sequence="21" value="HCA"/>
+                <element dependent_value="People Development" label="Stronger Together" sequence="21" value="Stronger Together"/>
                 <element dependent_value="Professional Development" label="CET" sequence="22" value="CET"/>
+                <element dependent_value="People Development" label="Technical issue" sequence="22" value="Technical issue"/>
                 <element dependent_value="Professional Development" label="CEC Childrens Eye Care" sequence="23" value="CEC Childrens Eye Care"/>
+                <element dependent_value="People Development" label="Welcome to the Partnership" sequence="23" value="Welcome to the Partnership"/>
                 <element dependent_value="Professional Development" label="WOPEC" sequence="24" value="WOPEC"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true, email_client=true" choice="1" dependent="sub_category" dependent_on_field="sub_category" label="Sub Sub-Category" max_length="40" name="sub_sub_category" type="string" use_dependent_field="true">
             <choice>
                 <element dependent_value="Cert 4" label="Bootcamp/Progression Pathway" value="Bootcamp/Progression Pathway"/>
-                <element dependent_value="Cert 3" label="Certificate" value="Certificate 3"/>
                 <element dependent_value="Cert 4" label="Certificate" value="Certificate"/>
+                <element dependent_value="Cert 3" label="Certificate" value="Certificate 3"/>
                 <element dependent_value="Cert 3" label="Exams" value="Exams 3"/>
                 <element dependent_value="Cert 4" label="Exams" value="Exams"/>
                 <element dependent_value="Cert 4" label="Graduation" value="Graduation"/>

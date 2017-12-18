@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_email_client_template">
+    <sys_email_client_template action="INSERT_OR_UPDATE">
+        <blind_copied/>
+        <body>&lt;div&gt;&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&lt;p&gt;Kind regards&lt;/p&gt;&#13;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: gray;"&gt;Learning &amp;amp; Development Operations Team&lt;/span&gt;&lt;/strong&gt; &lt;/p&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;div&gt;&lt;span style="color: black;"&gt;Direct&amp;nbsp;+44 (0)1489 862246&amp;nbsp;&lt;/span&gt;&lt;span style="font-size: 10.0pt; color: black;"&gt;Email&amp;nbsp;&lt;/span&gt;&lt;a href="mailto:people.development@specsavers.com" rel="nofollow"&gt;&lt;span style="font-size: 10.0pt; color: #1155cc;"&gt;people.development@specsavers.com&lt;/span&gt;&lt;/a&gt;&lt;span style="font-size: 10.0pt; color: #222222;"&gt; &lt;strong&gt;&lt;br /&gt; Specsavers&lt;/strong&gt;&lt;/span&gt;&lt;span style="font-size: 10.0pt; color: gray;"&gt;&amp;nbsp;&amp;nbsp;&lt;strong&gt;Forum 6, Parkway, Solent Business Park, Whiteley PO15 7PA&lt;/strong&gt;&lt;br /&gt; &lt;/span&gt;&lt;span style="font-size: 10.0pt; color: black;"&gt;Tel 0845 2020 241&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style="color: black;"&gt;Fax&amp;nbsp;+44 (0)1489 880177&lt;/span&gt;&lt;span style="font-size: 10.0pt; color: black;"&gt;&amp;nbsp; Web&amp;nbsp;&lt;/span&gt;&lt;a href="http://specsavers.com/" rel="nofollow"&gt;&lt;span style="font-size: 10.0pt; color: #1155cc;"&gt;specsavers.com&lt;/span&gt;&lt;/a&gt;&lt;span style="font-size: 10.0pt; color: black;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span style="font-size: 7.5pt; color: green;"&gt;PLEASE THINK BEFORE YOU PRINT&lt;/span&gt;&lt;/strong&gt;&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;div&gt;______________________________&lt;/div&gt;&#13;
+&lt;div&gt;Body of your previous email:&lt;/div&gt;&#13;
+&lt;div&gt;${description}&lt;/div&gt;</body>
+        <body_html/>
+        <condition/>
+        <content_type>text/plain</content_type>
+        <copied/>
+        <from/>
+        <name>L&amp;D</name>
+        <order>100</order>
+        <recipients>contact_email_address</recipients>
+        <reply_to/>
+        <subject>${number} - ${short_description}</subject>
+        <sys_class_name>sys_email_client_template</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-11-28 13:40:25</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>7cdefb80dbfe4f8063b7dca0ce961967</sys_id>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_name>L&amp;D</sys_name>
+        <sys_package display_value="Learning and Development" source="x_spog_learn_dev">85414ff04fe10f4021a168d18110c7d1</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Learning and Development">85414ff04fe10f4021a168d18110c7d1</sys_scope>
+        <sys_update_name>sys_email_client_template_7cdefb80dbfe4f8063b7dca0ce961967</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-12-11 23:28:28</sys_updated_on>
+        <table>x_spog_learn_dev_learning_and_development</table>
+    </sys_email_client_template>
+</record_update>
